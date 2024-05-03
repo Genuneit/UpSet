@@ -1,4 +1,4 @@
-Row;_Left_Lung;_Right_Lung;_Left_Kidney;_Right_Kidney;_Whole_Liver;_Heart;_Pancreas
+Row;LeftLung;RightLung;LeftKidney;RightKidney;WholeLiver;Heart;Pancreas
 R1;0;0;1;1;1;1;1
 R2;0;0;1;1;1;1;0
 R3;0;0;1;1;1;0;0
